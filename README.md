@@ -13,3 +13,4 @@ This Power BI dashboard provides an **end-to-end analysis of mobile phone sales*
 
 ## 🛠️ Technologies Used  
 - **Power BI** – Data visualization and dashboard creation  
+![Dashboard](https://github.com/user-attachments/assets/c0043d3a-6ab2-49c6-a438-ec2718dd4835)
